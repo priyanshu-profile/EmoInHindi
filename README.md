@@ -2,8 +2,8 @@
 
 This repository contains the dataset and code for our paper titled [EmoInHindi: A Multi-label Emotion and Intensity Annotated Dataset in Hindi for Emotion Recognition in Dialogues](https://aclanthology.org/2022.lrec-1.627/)
 
-<!--## Code-->
-<!--The folder Code contains the code for the proposed architecture.-->
+## Code
+The folder Code contains the code for the proposed architecture.
 
 ## Dataset Request Access
 
